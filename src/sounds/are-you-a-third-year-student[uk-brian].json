@@ -1,0 +1,101 @@
+[
+  {
+    "time": 6,
+    "type": "word",
+    "start": 0,
+    "end": 3,
+    "value": "Are"
+  },
+  {
+    "time": 96,
+    "type": "word",
+    "start": 4,
+    "end": 7,
+    "value": "you"
+  },
+  {
+    "time": 340,
+    "type": "word",
+    "start": 8,
+    "end": 9,
+    "value": "a"
+  },
+  {
+    "time": 384,
+    "type": "word",
+    "start": 10,
+    "end": 13,
+    "value": "3rd"
+  },
+  {
+    "time": 733,
+    "type": "word",
+    "start": 14,
+    "end": 18,
+    "value": "year"
+  },
+  {
+    "time": 893,
+    "type": "word",
+    "start": 19,
+    "end": 26,
+    "value": "student?",
+    "break": true
+  },
+  {
+    "time": 1961,
+    "type": "word",
+    "start": 28,
+    "end": 31,
+    "value": "Are"
+  },
+  {
+    "time": 2022,
+    "type": "word",
+    "start": 32,
+    "end": 35,
+    "value": "you"
+  },
+  {
+    "time": 2170,
+    "type": "word",
+    "start": 36,
+    "end": 44,
+    "value": "studying"
+  },
+  {
+    "time": 2714,
+    "type": "word",
+    "start": 45,
+    "end": 48,
+    "value": "for"
+  },
+  {
+    "time": 2873,
+    "type": "word",
+    "start": 49,
+    "end": 52,
+    "value": "the"
+  },
+  {
+    "time": 2987,
+    "type": "word",
+    "start": 53,
+    "end": 57,
+    "value": "High"
+  },
+  {
+    "time": 3251,
+    "type": "word",
+    "start": 58,
+    "end": 64,
+    "value": "School"
+  },
+  {
+    "time": 3642,
+    "type": "word",
+    "start": 65,
+    "end": 76,
+    "value": "Examination?"
+  }
+]

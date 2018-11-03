@@ -1,0 +1,5 @@
+{"time":6,"type":"word","start":0,"end":5,"value":"Hello!"}
+{"time":1088,"type":"word","start":7,"end":9,"value":"My"}
+{"time":1247,"type":"word","start":10,"end":14,"value":"name"}
+{"time":1609,"type":"word","start":15,"end":17,"value":"is"}
+{"time":1784,"type":"word","start":18,"end":23,"value":"Brian."}

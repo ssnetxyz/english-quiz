@@ -1,0 +1,56 @@
+
+.nav {
+  background: #304e72;
+  padding: 30px 30px 60px 30px;
+  font-family: 'Muli', sans-serif;
+  display: flex;
+  justify-content: center;
+
+  a {
+    display: block;
+    margin: 0 1em;
+    text-decoration: none;
+    border-bottom: 1px dotted #ccf;
+    font-weight: bold;
+    color: #fff;
+    position: relative;
+
+    span {
+      position: absolute;
+      white-space: nowrap;
+      top: 100%;
+      left: 0;
+      right: 0;
+      font-weight: 200;
+      font-family: 'Yu Gothic', 'MS PGothic', sans-serif;
+      font-size: 0.8em;
+    }
+
+    &:hover {
+      border-color: #77f;
+    }
+
+    &.router-link-exact-active {
+      color: #eff03b;
+    }
+  }
+}
+
+// a.join-link {
+//   position: relative;
+//   color: black;
+
+//   &.router-link-exact-active {
+//     color: black;
+//   }
+// }
+
+.join-badge::before {
+  url(test.svg); 
+  content: 'a';
+  color: #eff03b;
+  z-index: 1;
+  position: absolute;
+  top: 0;
+  left: 0;
+}

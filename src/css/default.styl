@@ -1,0 +1,120 @@
+@import './base.styl';
+@import './nav.styl';
+@import './wordtracker.styl';
+@import './quiz.styl';
+
+.hello, .home, .schedule, .page-content, .access {
+  flex-grow: 1;
+}
+
+.sidebar {
+  text-align: center;
+  margin-top: 5vh;
+  width: 30%;
+  max-width: 30%;
+  min-width: 30%;
+  margin-left: 1em;
+  padding-left: 1em;
+  border-left: 1px solid #9caab9;
+}
+
+hr {
+  border: 1px solid #9caab9;
+  margin: 5vh;
+  max-width: 20vw;
+}
+
+.welcome {
+  font-size: 1.4em;
+  margin-bottom: 0;
+  color: lighten(#2c3e50, 20%);
+  text-transform: uppercase;
+}
+
+.fun {
+  color: tomato;
+}
+
+.signup-form {
+  h3 {
+    margin: 0;
+  }
+
+  padding: 1em;
+  border: 2px solid #9caab9;
+  border-radius: 3px;
+}
+
+.button-access {
+  font-size: 18px;
+  line-height: 30px;
+  vertical-align: middle;
+  padding: 12px 24px;
+  text-shadow: none;
+  // font-family: "Yu Gothic";
+  font-weight: bold;
+  margin-right: 1rem;
+
+  .label {
+    margin-top: 2px;
+    vertical-align: middle;
+  }
+
+  .icon {
+    vertical-align: middle;
+    height: 30px;
+    margin-right: 1rem;
+    display: inline-block;
+
+    svg {
+      margin-bottom: 0;
+    }
+  }
+}
+
+.address {
+  font-family: 'Meiryo';
+}
+
+.street-view-images {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 15px;
+
+  img {
+    max-width: 100%;
+    overflow: hidden;
+  }
+}
+
+.link-to-google-maps {
+  margin-bottom: 2vh;
+}
+
+.future-video {
+  h4{
+    margin: 0;
+  }
+  .message-author{
+    display: block;
+    text-align: right;
+    padding-right: 1em;
+    font-family: 'Yu Gothic', 'MS PGothic', sans-serif;
+    line-height: 1em;
+    span{
+      font-size: small;
+
+      font-style: normal;
+    }
+  }
+  font-weight: normal
+  background-color: #2c3e50;
+  border-radius: 10px;
+  color: #fff;
+  padding: 1em;
+  text-align: center;
+  .video-icon {
+    
+  }
+
+}

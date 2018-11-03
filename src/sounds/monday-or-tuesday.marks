@@ -1,0 +1,10 @@
+{"time":6,"type":"word","start":0,"end":7,"value":"Mondays"}
+{"time":512,"type":"word","start":8,"end":12,"value":"from"}
+{"time":749,"type":"word","start":13,"end":19,"value":"5:30 PM"}
+{"time":1827,"type":"word","start":20,"end":22,"value":"to"}
+{"time":1946,"type":"word","start":23,"end":27,"value":"6:30.", "break":true}
+{"time":3054,"type":"word","start":29,"end":37,"value":"Tuesdays"}
+{"time":3904,"type":"word","start":38,"end":42,"value":"from"}
+{"time":4164,"type":"word","start":43,"end":49,"value":"6:30 PM"}
+{"time":5569,"type":"word","start":50,"end":52,"value":"to"}
+{"time":5698,"type":"word","start":53,"end":57,"value":"7:30."}
